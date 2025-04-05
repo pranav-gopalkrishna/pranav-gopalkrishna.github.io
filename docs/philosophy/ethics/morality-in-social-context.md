@@ -1,0 +1,57 @@
+[<< Back to **Ethics**](https://pranav-gopalkrishna.github.io/philosophy/ethics)
+
+**MORALITY IN A SOCIAL CONTEXT**
+
+**_The Basis of Value in a Social Context_**
+
+---
+
+**Contents**:
+
+- [1. Establishing the cognitive context](#1-establishing-the-cognitive-context)
+- [2. Establishing the value of a volitional being](#2-establishing-the-value-of-a-volitional-being)
+- [4. Key points](#4-key-points)
+- [5. Concretising the nature of the value of volitional beings](#5-concretising-the-nature-of-the-value-of-volitional-beings)
+
+---
+
+# 1. Establishing the cognitive context
+The basis of ethics is and should be rational self-interest ("rational" is redundant if "self-interest" is properly grasped, but I use it nonetheless for emphasis and clarity). Furthermore, it is vital to keep in mind what self-interest means by keeping in mind what the "self" is for a volitional being. The self for a conscious being is, in essence, the fact and faculty of awareness and of action based on awareness. For a volitional being, a fundamental characteristic of its awareness is self-awareness, which gives rise to the ability to direct its own awareness, i.e. volition (i.e. a self-driven awareness). The faculty of volition is what makes reason possible, reason being the faculty of identifying and integrating the material provided by direct perception (since integration and further identification demands selective, self-directed focus on one's own grasp of reality).
+
+In [_The Nature of Life_](https://pranav-gopalkrishna.github.io/philosophy/ethics/nature-of-life.html), I have argued for why the nature of volitional existence requires the integration of the actual and the potential, i.e. the present and the long-range. I have also argued for why self-preservation is necessarily the full pursuit of one's own happiness (i.e. one's non-contradictory pursuit of life considering the fullest integration of the actual and the potential possible to oneself). Furthermore, in [_The Nature of Value_](https://pranav-gopalkrishna.github.io/philosophy/ethics/nature-of-value.html), I have also argued for why non-contradiction of values starting from the broadest context of one's life is the only way to sustain one's orientation to and pursuit of life-affirming values. Since the actual and the potential are integrated, neither can exist in isolation from each other and only exist as an integrated whole. In other words, life in the moment as a volitional being can only be sustained if the potential of one's life is not contradicted so as to be degraded or destroyed (of course, conversely, the potential can only draw meaning from the actual, which means one cannot disregard the actual for the sake of any potential without destroying what makes the potential valuable in the first place).
+
+My position on the non-contradiction in values is bolstered by my statement in the section "Why to pursue philosophy" in [_Introduction to Philosophy_ from **Philosophy**](https://pranav-gopalkrishna.github.io/philosophy/intro-for-philosophy.html) about the non-contradiction in truth, particularly regarding the absolute moral and practical necessity for non-contradiction between narrower decisions and broader generalisations and/or principles. To put it briefly, a way to destroy your efficacy in thought, action and thereby in life, especially long-range, is to accept or — worse — sanction one's own hypocrisy, be it in truth or in value (note that values are a form of truth).
+
+# 2. Establishing the value of a volitional being
+**NOTE**: _I am using "human" or "human being" synonymously with volitional beings to improve readability and relatability. In case we meet other kinds of volitional beings, the same arguments would equally apply to them._
+
+It is in our self-interest to be rational, i.e. to adhere to reality as it is — insofar as we grasp it. Importantly, to be rational is to use reason as the sole integrator and validator of one's grasp of reality and of one's actions in reality, from the broadest context to the narrowest. Now, rationality demands that we treat things as they are objectively, i.e. with respect to their nature and their relationship to our own existence. So, what does rationality demand of us with respect to other volitional beings?
+
+To begin with, we shall identify the essentials of the nature of volitional beings as such. As volitional beings, they have the capacity for reason, which means that given the right conditions, they can exercise their volition to grasp the facts and act according to their judgement of the facts. What are the right conditions? Firstly, they must be able to grasp the facts at all — hence, if you deceive a volitional being, you attack its capacity to reason. Secondly, they must be able to act on their judgement of the facts — hence, if you make a volitional being act against its volition, you also attack its capacity to reason.
+
+Now, we must ask: what value does the essential nature of a volitional being represent to us, with respect to our self-interest? Firstly, the capacity to reason makes a volitional being capable of creating life-sustaining values with respect to a long-range purpose. This fact makes them an irreplaceable value to us, since (1) no other kind of entity can create values with respect to long-range purpose, and (2) the creation of value from the material of nature is necessary to sustain volitional life long-range. The value comes from the opportunity of value-exchange, wherein we need not only rely on our own capacity for value creation but can also benefit from the capacity of the other volitional being; even at its minimum, such a capacity represents the capacity to invest time and effort in the same endeavour (leading to more combined faculties) or in another endeavour (leading to more combined creativity). Note that by value creation, I mean values in general — such as intellectual or spiritual values — and not just material values.
+
+Hence, even mere coexistence with such a being is of greater potential than their use as material (e.g. cannibalism) or as a lower form of life (e.g. slavery), given the unique, irreplaceable capacity of a volitional being to create long-range value from material and lower life-forms. However, note the source of their irreplaceable value: their capacity to reason. An attack on their capacity to reason is an attack on their value to us, which is ultimately an attack on our own values, and thus, on our own life. A key point to note is that it is not the extent or use of the capacity to reason but only its presence that is the basis of value here.
+
+It is key to note, though, that what conditions our considerations is rational self-interest, i.e. what we need to sustain and advance our own capacity to live. For example, if a volitional being attacks us physically, we have every right and reason to fight back and subdue him with physical force as necessary — even kill him, if needed. Before we discuss the conditions for our value for other rational beings, note that in the broadest context, the capacity to live involves (1) the capacity to grasp reality (reason), (2) the capacity to act in reality toward chosen goals (purpose), and (3) the capacity to regard ourselves and our potential with value (self-esteem). These capacities involve an integrated system of values and virtues, all of which are essential to self-interest. For reference, some such values are: truth, efficacy, health, character and wealth. Also for reference, some such virtues are: rationality, productivity, pride, honesty and integrity.
+
+_Now, coming back to the last key point of discussion..._
+
+If the value of other volitional beings is conditional, we can identify the conditions with respect to broader principles that define the context in which volitional beings have value to us, and thus, define the conditions that give them their value to us. Hence, we must ask: in what context are other volitional beings of irreplaceable value to us? Is it in a narrow context where we consider the expediency of the moment, or is it in a broad context where we have overarching principles that supersede narrower considerations? Based on how we established the irreplaceable value of a volitional being, we observe that the context of their value to us is life as a whole, lived long-range. Why? Consider that the basis of a volitional being's irreplaceable value to us — placing him apart from other material or spiritual values — is his capacity for long-range purpose and value creation (wherein values are defined broadly, in terms of material, intellectual and spiritual values). Furthermore, even the value of coexistence with a volitional being is with respect to an irreplaceable long-range potential offered by the mere existence of the volitional being. Hence, it stands to reason that the value we have for volitional beings must be pursued with respect to the broadest context of our life, which means their importance to us is only superseded by our pursuit of the fundamental values and the practice of the fundamental virtues that sustain our life.
+
+# 4. Key points
+If the capacity to reason is a key part of what makes a volitional being such a fundamental value to us, we must understand what such a capacity involves. To get the obvious out of the way, since the value for a volitional being is based on a long-range context, temporary deprivation in their capacity (e.g. due to insanity, loss of consciousness, etc.) has no effect on their fundamental value to us. Hence, what we care about is not their momentary or temporary capacity but their capacity in general, in the context of their life as a whole. Furthermore, since it is not the extent of the capacity to reason but simply its presence that is fundamentally relevant, differences in capacity are not fundamentally relevant (they may be relevant in narrower contexts, e.g. work, relationships, etc., provided the fundamentals are not contradicted).
+
+# 5. Concretising the nature of the value of volitional beings
+Reason and morality are in the domain of the individual and the individual alone. People can cooperate, collaborate and influence each other, but ultimately, reason — the basis of which is volition — demands individual effort first and foremost. Hence, morality, an extension of reason in the context of sustaining one's own life long-range, is also in the domain of the individual. In other words, to benefit from rationality and morality in the broadest context, i.e. in the long-run, requires freedom as defined in a non-contradictory context, i.e. freedom that rejects the violation of life and autonomy. To expect the outcomes of rationality or morality by coercion is more than tyrannical, it is irrational, since it ignores the very basis of reason and morality.
+
+_As examples, consider the following..._
+
+- Freer cultures → Greater intellectual and material progress
+    - Ancient Greece and the Roman Republic
+    - The Islamic Golden Age
+    - The Renaissance and the Scientific Revolution
+    - The Industrial Revolution in England and the USA
+- Freer economies → Greater material prosperity in the society
+    - China before and after the adoption of freer market
+    - India before and after liberalisation of the economy
