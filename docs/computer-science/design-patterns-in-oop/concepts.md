@@ -1,4 +1,4 @@
-[<< Back to **Design Patterns in Object-Oriented Programming**](https://pranigopu.github.io/computer-science/design-patterns-in-oop)
+[<< Back to **Design Patterns in Object-Oriented Programming**](https://pranav-gopalkrishna.github.io/computer-science/design-patterns-in-oop)
 
 **CONCEPTS**
 

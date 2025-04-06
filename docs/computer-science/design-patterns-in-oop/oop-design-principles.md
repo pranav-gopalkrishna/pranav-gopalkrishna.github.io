@@ -1,4 +1,4 @@
-[<< Back to **Design Patterns in Object-Oriented Programming**](https://pranigopu.github.io/computer-science/design-patterns-in-oop)
+[<< Back to **Design Patterns in Object-Oriented Programming**](https://pranav-gopalkrishna.github.io/computer-science/design-patterns-in-oop)
 
 **OOP DESIGN PRINCIPLES**
 
@@ -14,9 +14,9 @@
 ---
 
 # Program to an interface, not an implementation
-Implementation reuse is only a part of the value of inheritance; the other part is an inheritance's ability to define (i.e. implement through classes) a range of objects with identical [interfaces](https://pranigopu.github.io/computer-science/design-patterns-in-oop/concepts.html#interface), usually by inheriting from the same abstract class. This is valuable as it enables [polymorphism](https://pranigopu.github.io/computer-science/design-patterns-in-oop/concepts.html#polymorphism).
+Implementation reuse is only a part of the value of inheritance; the other part is an inheritance's ability to define (i.e. implement through classes) a range of objects with identical [interfaces](https://pranav-gopalkrishna.github.io/computer-science/design-patterns-in-oop/concepts.html#interface), usually by inheriting from the same abstract class. This is valuable as it enables [polymorphism](https://pranav-gopalkrishna.github.io/computer-science/design-patterns-in-oop/concepts.html#polymorphism).
 
-Inheritance can be used such that all classes derived from an abstract class share its interface. This implies that a subclass merely adds or overrides methods and does not hide the parent class' methods. Then, all these subclasses can respond to the requests in the interface of this abstract class, making them all [subtypes](https://pranigopu.github.io/computer-science/design-patterns-in-oop/concepts.html#type) of the abstract class. The benefits of manipulating objects only through an interface defined by abstract classes are:
+Inheritance can be used such that all classes derived from an abstract class share its interface. This implies that a subclass merely adds or overrides methods and does not hide the parent class' methods. Then, all these subclasses can respond to the requests in the interface of this abstract class, making them all [subtypes](https://pranav-gopalkrishna.github.io/computer-science/design-patterns-in-oop/concepts.html#type) of the abstract class. The benefits of manipulating objects only through an interface defined by abstract classes are:
 
 1. Clients stay unaware of the specific types of objects they use <br> ... _as long as the objects adhere to the interface that clients expect_
 2. Clients stay unaware of classes implementing these objects <br> ... _only knowing about the abstract class(es) defining the interface_
@@ -34,7 +34,7 @@ Hence, in practice, do not declare variables to be instances of particular concr
 > **Reference**: DPG4 (p. 51-52)
 
 # Favor object composition over class inheritance
-The two most used techniques for reusing functionality in object-oriented systems are (1) class inheritance (white-box reuse, since everything within the parent class is visible to subclasses) and (2) object composition (black-box reuse, since objects are [encapsulated](https://pranigopu.github.io/computer-science/design-patterns-in-oop/concepts.html#encapsulation) and thus their implementations are invisible to each other).
+The two most used techniques for reusing functionality in object-oriented systems are (1) class inheritance (white-box reuse, since everything within the parent class is visible to subclasses) and (2) object composition (black-box reuse, since objects are [encapsulated](https://pranav-gopalkrishna.github.io/computer-science/design-patterns-in-oop/concepts.html#encapsulation) and thus their implementations are invisible to each other).
 
 ## The issue with inheritance
 Inheritance brings implementation dependency between the parent class and its subclasses; any change to the parent class forces changes in subclasses. Hence, if any aspect of the inherited implementation is not appropriate for a new problem domain, the parent class must be rewritten or replaced by something more appropriate, which can lead to rewriting or replacing its subclasses as well, which can be problematic when you want to reuse some subclasses further. Evidently, such dependency limits flexibility and reusability.

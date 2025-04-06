@@ -1,4 +1,4 @@
-[<< Back to **Computer Science**](https://pranigopu.github.io/computer-science)
+[<< Back to **Computer Science**](https://pranav-gopalkrishna.github.io/computer-science)
 
 # Design Patterns in Object-Oriented Programming
 
@@ -27,10 +27,10 @@ Design patterns (or more precisely, software design patterns) are reusable solut
 ## Explore
 _Ordered reference_...
 
-- [Introduction](https://pranigopu.github.io/computer-science/design-patterns-in-oop/intro.html)
-- [Using Design Patterns](https://pranigopu.github.io/computer-science/design-patterns-in-oop/using-design-patterns.html)
+- [Introduction](https://pranav-gopalkrishna.github.io/computer-science/design-patterns-in-oop/intro.html)
+- [Using Design Patterns](https://pranav-gopalkrishna.github.io/computer-science/design-patterns-in-oop/using-design-patterns.html)
 
 _General reference_...
 
-- [Concepts](https://pranigopu.github.io/computer-science/design-patterns-in-oop/concepts.html)
-- [OOP Design Principles](https://pranigopu.github.io/computer-science/design-patterns-in-oop/oop-design-principles.html)
+- [Concepts](https://pranav-gopalkrishna.github.io/computer-science/design-patterns-in-oop/concepts.html)
+- [OOP Design Principles](https://pranav-gopalkrishna.github.io/computer-science/design-patterns-in-oop/oop-design-principles.html)
