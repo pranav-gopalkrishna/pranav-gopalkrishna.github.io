@@ -31,6 +31,7 @@ _Practical principles_...
 - [Effective Purposefulness](https://pranav-gopalkrishna.github.io/effectiveness/effective-purposefulness.html)
 - [Effective Rationality](https://pranav-gopalkrishna.github.io/effectiveness/effective-rationality.html)
 - [Essentialise, Simplify, Organise (ESO)](https://pranav-gopalkrishna.github.io/effectiveness/eso.html) <br> _Also includes the principles of concretising ESO_
+- [Health, Power, Integrity: The Tenets of Human Life](https://pranav-gopalkrishna.github.io/effectiveness/hpi-the-tenets-of-human-life.html)
 - [Planning](https://pranav-gopalkrishna.github.io/effectiveness/planning.html)
 - [Taking Breaks](https://pranav-gopalkrishna.github.io/effectiveness/taking-breaks.html)
 - [Investing Effort](https://pranav-gopalkrishna.github.io/effectiveness/investing-effort.html)
