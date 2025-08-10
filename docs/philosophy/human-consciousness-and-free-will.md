@@ -46,7 +46,7 @@ In epistemology, I went over the basics of the relationship between reality and 
 
 **Perception**:
 
-The process by which an entity senses and retains interactions between the external environment and itself to use toward goal-directed behaviour. The use of the retained interactions for goal-directed behaviour is key; without this aspect, perception is indistinguishable from mere marks or imprints. "Meaning" is only found with respect to a goal or purpose, and hence, perception without goal-directed behaviour is meaningless and becomes the same phenomenon (in essence) as mere marking or imprinting.
+The process by which an entity interacts with and retains interactions between the external environment and itself to use toward goal-directed behaviour. The use of the retained interactions for goal-directed behaviour is key; without this aspect, perception is indistinguishable from mere marks or imprints. "Meaning" is only found with respect to a goal or purpose, and hence, perception without goal-directed behaviour is meaningless and becomes the same phenomenon (in essence) as mere marking or imprinting.
 
 **Awareness**:
 
